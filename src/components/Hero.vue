@@ -14,15 +14,6 @@
 
 export default {
   name: 'Hero',
-  data() {
-      return {
-          products: {
-              data: {
-
-              }
-          }
-      }
-  }
 }
 </script>
 
